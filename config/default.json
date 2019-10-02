@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://parth123:parth123@devconnector-vgdpa.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
-}
